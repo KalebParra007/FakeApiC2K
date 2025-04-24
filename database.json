@@ -1,0 +1,60 @@
+{
+   "Customers":[
+    {
+        "id": 1,
+        "name": "Sara Rodriguez",
+        "email": "rodriguez@correo.com",
+        "password": "123456",
+        "typeUser": "Customer",
+        "phone": "3126784342",
+        "address": "Calle 123 #45-67"
+    },
+    {
+        "id": 2,
+        "name": "John Jairo Alvarez",
+        "email": "alvarez@correo.com",
+        "password": "765489",
+        "typeUser": "Customer",
+        "phone": "3256784342",
+        "address": "Calle 456 #78-90"
+    }
+],
+    "Vehicle":[
+    {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Corolla",
+        "Color": "Red",
+        "Plate": "ABC123",
+        "year": 2020,
+        "type": "Sedan"
+    },
+    {
+        "id": 2,
+        "brand": "Honda",
+        "model": "Civic",
+        "Color": "Blue",
+        "Plate": "DEF456",
+        "year": 2019,
+        "type": "Sedan"
+    },
+    {
+        "id": 3,
+        "brand": "Ford",
+        "model": "F-150",
+        "Color": "Black",
+        "Plate": "GHI789",
+        "year": 2021,
+        "type": "Truck"
+    },
+    {
+        "id": 4,
+        "brand": "Chevrolet",
+        "model": "Silverado",
+        "Color": "White",
+        "Plate": "JKL012",
+        "year": 2022,
+        "type": "Truck"
+    }   
+    ]
+}
